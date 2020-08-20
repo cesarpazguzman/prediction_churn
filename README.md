@@ -1,2 +1,2 @@
 # prediction_churn
-Mediante un dataset, intentamos predecir los grupos de usuarios con una alta probabilidad de hacer portabilidad a otras compañias telefónicas.
+Predict user´s groups with high probability of churning out to others phone companies
